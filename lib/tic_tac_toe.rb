@@ -1,3 +1,4 @@
+
 class TicTacToe
   WIN_COMBINATIONS = [
     [0,1,2],
@@ -89,4 +90,9 @@ class TicTacToe
     end
 
   end
+end
+
+gra = TicTacToe.new
+gra.play
+
 end
