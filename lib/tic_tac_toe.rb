@@ -1,5 +1,3 @@
-gra = TicTacToe.new
-gra.play
 
 class TicTacToe
   WIN_COMBINATIONS = [
