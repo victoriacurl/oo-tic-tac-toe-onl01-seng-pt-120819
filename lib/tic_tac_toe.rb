@@ -91,3 +91,8 @@ class TicTacToe
 
   end
 end
+
+gra = TicTacToe.new
+gra.play
+
+end
